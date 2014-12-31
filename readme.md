@@ -2,6 +2,8 @@
 
 A reworking of the amazing [semantic.gs](https://github.com/tylertate/semantic.gs/) system. Instead of margin to define columns, columns are a full width and content is defined via padding.
 
+**Because fuck presentational classes**
+
 ##How To Use
 Simply include the _deadset file within the appropriate language to your project as an include.
 
